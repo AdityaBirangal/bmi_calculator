@@ -1,8 +1,9 @@
-# bmi_calculator
+# BMI Calculator By Aditya Birangal
+Avalible on Play Store
+Install Now : 
+https://play.google.com/store/apps/details?id=com.birangal.bmi_calculator
 
-A new Flutter application.
-
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
