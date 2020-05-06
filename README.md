@@ -3,7 +3,9 @@ Avalible on Play Store
 Install Now : 
 https://play.google.com/store/apps/details?id=com.birangal.bmi_calculator
 
-<img src="https://user-images.githubusercontent.com/43909309/81200824-2129f480-8fe2-11ea-93f6-76e3373417ce.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/43909309/81215707-5856d080-8ff7-11ea-9f0f-851a4874ddb2.gif" width="300">
+
+
 
 ### Getting Started
 
