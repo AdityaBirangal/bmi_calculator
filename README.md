@@ -3,6 +3,8 @@ Avalible on Play Store
 Install Now : 
 https://play.google.com/store/apps/details?id=com.birangal.bmi_calculator
 
+<img src="https://user-images.githubusercontent.com/43909309/81200824-2129f480-8fe2-11ea-93f6-76e3373417ce.jpg" width="200">
+
 ### Getting Started
 
 This project is a starting point for a Flutter application.
