@@ -43,9 +43,11 @@ class _InputPageState extends State<InputPage> {
                 DrawerHeader(
                   child: Row(
                     children: <Widget>[
-                      Image.asset(
-                        'images/Logo.png',
-                        height: 90,
+                      Flexible(
+                        child: Image.asset(
+                          'images/Logo.png',
+                          height: 90,
+                        ),
                       ),
                       SizedBox(
                         width: 10,
