@@ -63,6 +63,11 @@ Contact :
 Aditya Birangal
 developer@birangal.com
 
+## Credits
+UI Design : [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+
+Special Thanks to [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b) for creating [Flutter Course](www.udemy.com/course/flutter-bootcamp-with-dart)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
